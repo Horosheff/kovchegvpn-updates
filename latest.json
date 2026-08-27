@@ -1,7 +1,6 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "url": "http://31.76.82.215:8080/KovchegVPN.exe",
-  "url_zip": "https://litter.catbox.moe/2a5jin.zip",
-  "sha256": "d5fc1051844621caff2309182ac6b86f8b9d10a37ae820c6b865916efaf98771",
-  "size": 66149813
+  "sha256": "73911aff0393ed66846d061cbe39865e368210fb74a940c819f55f7d33dac95a",
+  "size": 66150541
 }
