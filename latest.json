@@ -1,6 +1,8 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "url": "http://31.76.82.215:8080/KovchegVPN.exe",
-  "sha256": "53d5e86ff41fee3b3ec0c39e52411ece47a76905864292249123decc7a9077b2",
-  "size": 66080754
+  "sha256": "07a128f171f040922c4995c072e3a85892b6c947a115696ce1ffaeb883f4d65b",
+  "size": 66083678,
+  "notes": "Сплит: РФ и YouTube напрямую по базе geosite (1900+ доменов + RU-подсети). Обновление без отключения VPN. Автозапуск и автоподключение (меню трея). Подписанные обновления. Самолечение ядра после сна/перезагрузки.",
+  "sig": "MEUCIE7yXsTzOG0+GMHQEYRrbIRHkzsAfVKbFjkBK6T6B8yAAiEAsKHyAZ0PBM/JjLaZJUTfpK69guAt1yKsPT7Poyic5ls="
 }
