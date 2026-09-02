@@ -1,8 +1,8 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "url": "http://31.76.82.215:8080/KovchegVPN.exe",
-  "sha256": "903c918c8059dc0b7766a4905792c26c5a305c27d45b5cfd840dc37b0df7a954",
-  "size": 66155851,
-  "notes": "Телефон: ссылки с Firefox-отпечатком (ТСПУ режет Chrome), вторая вкладка VPN 443. Telegram: новый прокси telemt, dd-ссылка для iPhone. Ядро само перебирает транспорты, если один режут.",
-  "sig": "MEUCIQCp1XBBTT0ohG5D5efeSJQRn1j39Q2iYSedEcabFT/17AIge7mGm1ckz7SGO1GpTR3Y8QeTuvNHP035zpwO/bp+CBk="
+  "sha256": "27c5a4afe32586ead63edc4c59b3c96364294198c4c0e34d3db8410a5cbc775d",
+  "size": 66156021,
+  "notes": "ТСПУ LigaLink начал резать Chrome-отпечаток Reality. Теперь сразу Firefox, потом Vision. Выкл/Вкл — и снова Польша.",
+  "sig": "MEUCIAwp52PVLs2fEjgLTdW/Fod3d96SYibtz8a/rfBY3oWXAiEA89/Qamy+ZjGGY2THE7aiKJmsupx/uP19PDLAaeNla5o="
 }
