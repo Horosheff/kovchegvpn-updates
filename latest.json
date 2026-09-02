@@ -1,8 +1,8 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "url": "http://31.76.82.215:8080/KovchegVPN.exe",
-  "sha256": "27c5a4afe32586ead63edc4c59b3c96364294198c4c0e34d3db8410a5cbc775d",
-  "size": 66156021,
-  "notes": "ТСПУ LigaLink начал резать Chrome-отпечаток Reality. Теперь сразу Firefox, потом Vision. Выкл/Вкл — и снова Польша.",
-  "sig": "MEUCIAwp52PVLs2fEjgLTdW/Fod3d96SYibtz8a/rfBY3oWXAiEA89/Qamy+ZjGGY2THE7aiKJmsupx/uP19PDLAaeNla5o="
+  "sha256": "036a29909d47ca49805bd39405842a81a325298c0b062a6f10a389b47c24dc95",
+  "size": 66156197,
+  "notes": "Ядро не поднималось: старый xray держал порт, а новые xHTTP-хендшейки ТСПУ режет. Теперь сразу Vision :8443 и убиваем застрявший процесс. Скачай 1.8.3, закрой приложение, открой заново, Выкл/Вкл.",
+  "sig": "MEUCIQD5526SkH3kEMmKZHFbSAmJ9og/ZI0rV4roOJxGZrJWmgIgILcPsBHs2I83dCGTtMCslPtc+xSnCH3cVDb41sHpPUA="
 }
