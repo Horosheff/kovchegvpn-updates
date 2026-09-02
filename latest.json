@@ -1,8 +1,8 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.4",
   "url": "http://31.76.82.215:8080/KovchegVPN.exe",
-  "sha256": "036a29909d47ca49805bd39405842a81a325298c0b062a6f10a389b47c24dc95",
-  "size": 66156197,
-  "notes": "Ядро не поднималось: старый xray держал порт, а новые xHTTP-хендшейки ТСПУ режет. Теперь сразу Vision :8443 и убиваем застрявший процесс. Скачай 1.8.3, закрой приложение, открой заново, Выкл/Вкл.",
-  "sig": "MEUCIQD5526SkH3kEMmKZHFbSAmJ9og/ZI0rV4roOJxGZrJWmgIgILcPsBHs2I83dCGTtMCslPtc+xSnCH3cVDb41sHpPUA="
+  "sha256": "39d1368e1b2d65950e19dc786d62bbbf10f745c99b51d585e73fd83c5dff9e91",
+  "size": 66156532,
+  "notes": "Крестик теперь закрывает программу. Новый файл сам убивает старый в трее и ставится — просто скачай и запусти.",
+  "sig": "MEYCIQCIySPHGLw3nTACERT/rLgenr4Lwnk57216AqKNrbzA1gIhAMVIICNuAP5e7z1XXsnmXw6kCPXr4LjMRXFH95wyAH2V"
 }
