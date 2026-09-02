@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "url": "http://31.76.82.215:8080/KovchegVPN.exe",
-  "sha256": "a8625ac907e8d488bc9f3ea9aaf5f53577ce17a9928564df84083c57f4daef6c",
-  "size": 66155025,
-  "notes": "Кнопка «Телефон»: QR для Android/iPhone и прокси для Telegram. Fake-IP DNS — сайты открываются быстрее. Защита от утечки IPv6. Запасной транспорт Vision, если xHTTP заблокируют. BBR на сервере.",
-  "sig": "MEUCIQDSVVBxSwyTZ/MDRqXbzg6rHwEwv+vofi4EHwANWywLYgIgMq3Mvaj2R3IRwu0gvVyxxPujOGrQDr8w4+H6DadZiok="
+  "sha256": "903c918c8059dc0b7766a4905792c26c5a305c27d45b5cfd840dc37b0df7a954",
+  "size": 66155851,
+  "notes": "Телефон: ссылки с Firefox-отпечатком (ТСПУ режет Chrome), вторая вкладка VPN 443. Telegram: новый прокси telemt, dd-ссылка для iPhone. Ядро само перебирает транспорты, если один режут.",
+  "sig": "MEUCIQCp1XBBTT0ohG5D5efeSJQRn1j39Q2iYSedEcabFT/17AIge7mGm1ckz7SGO1GpTR3Y8QeTuvNHP035zpwO/bp+CBk="
 }
