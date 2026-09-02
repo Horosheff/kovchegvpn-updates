@@ -1,8 +1,8 @@
 {
-  "version": "1.8.4",
+  "version": "1.8.5",
   "url": "http://31.76.82.215:8080/KovchegVPN.exe",
-  "sha256": "39d1368e1b2d65950e19dc786d62bbbf10f745c99b51d585e73fd83c5dff9e91",
-  "size": 66156532,
-  "notes": "Крестик теперь закрывает программу. Новый файл сам убивает старый в трее и ставится — просто скачай и запусти.",
-  "sig": "MEYCIQCIySPHGLw3nTACERT/rLgenr4Lwnk57216AqKNrbzA1gIhAMVIICNuAP5e7z1XXsnmXw6kCPXr4LjMRXFH95wyAH2V"
+  "sha256": "6babd8b23db26902bd156d59e07f5ac7bdb0dff9c5264758d719244edec22094",
+  "size": 66156647,
+  "notes": "Починил ядро: конфиг не записывался. Нажми Обновить — или закрой крестиком и открой ярлык, само подтянется.",
+  "sig": "MEUCIGjr8y5k+nqVDMif0C/DSLNKvj2mg8YF1LSEd3PMUHdhAiEAnHW1/CZTDfe+XooE+RAzkljd3kDJYBqCqC8hrf03mZI="
 }
