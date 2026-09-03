@@ -1,8 +1,0 @@
-{
-  "version": "1.8.6",
-  "url": "http://31.76.82.215:8080/KovchegVPN.exe",
-  "sha256": "6facd0d9276150a50d54132fae8d097d9cb872fafb156856317e3baa2776dc48",
-  "size": 66157654,
-  "notes": "Ядро не падало — ТСПУ резал тысячу Vision-подключений. Теперь один длинный канал. Обновись и Выкл/Вкл.",
-  "sig": "MEQCIGSO2FkByRkeg+gySxpcv0MTnTaJRyU3NqHMa4OrlCFsAiB2G1m8UI+BoH9Z9nRpVk/eJgqRyhlD9XMx9/Z7YX4TxQ=="
-}
